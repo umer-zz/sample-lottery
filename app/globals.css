@@ -1,0 +1,24 @@
+.COSMIC {
+    --accent: #961a88;
+    --accent-light: #eee1f0;
+}
+
+.ATOMIC {
+
+    --accent: #00aeb1;
+    --accent-light: #eaf9f7;
+}
+
+
+.CLASSIC {
+    --accent: #191978;
+    --accent-light: #e9eef6;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+.custom-container {
+    max-width: 500px;
+}
